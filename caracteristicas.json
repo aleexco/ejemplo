@@ -1,0 +1,27 @@
+{
+  "autos": [
+    {
+      "marca": "Suzuki",
+      "modelo": "Fronx",
+      "version": "GLX",
+      "precio": "$16.490.000",
+      "caracteristicas": [
+        "Motor 1.5L",
+        "Sistema híbrido ligero",
+        "Caja automática",
+        "Control crucero"
+      ]
+    },
+    {
+      "marca": "Renault",
+      "modelo": "Kwid E-Tech",
+      "version": "Full",
+      "precio": "$19.623.100",
+      "caracteristicas": [
+        "100% eléctrico",
+        "Pantalla multimedia",
+        "Diseño compacto"
+      ]
+    }
+  ]
+}
