@@ -1,22 +1,16 @@
-{
-  "titulo_superior": "CATÁLOGO AUTOMOTRIZ",
-  "marca": "Suzuki",
-  "modelo": "Fronx",
-  "version": "GLX AT",
-  "anio": "2026",
-  "label_anio": "Modelo",
-  "precio": "$16.490.000",
-  "codigo": "FRONX/GLX/AT/2026",
-  "imagen": "https://tusitio.cl/imagenes/fronx-glx.png",
-  "detalle_titulo": "Características principales",
-  "descripcion": "SUV compacto con diseño moderno, excelente rendimiento para ciudad y equipamiento pensado para una conducción cómoda y segura.",
-  "caracteristicas": [
-    "Motor 1.5L",
-    "Sistema híbrido ligero",
-    "Caja automática",
-    "Pantalla multimedia",
-    "Apple CarPlay y Android Auto",
-    "Cámara de retroceso",
-    "Control crucero"
-  ]
-}
+[
+  {
+    "id": "fronx_glx",
+    "marca": "Suzuki",
+    "modelo": "Fronx",
+    "version": "GLX AT",
+    "anio": "2026",
+    "precio": "$16.490.000",
+    "descripcion": "SUV compacto moderno",
+    "caracteristicas": [
+      "Motor 1.5L",
+      "Híbrido",
+      "Automático"
+    ]
+  }
+]
