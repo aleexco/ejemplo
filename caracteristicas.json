@@ -1,27 +1,22 @@
 {
-  "autos": [
-    {
-      "marca": "Suzuki",
-      "modelo": "Fronx",
-      "version": "GLX",
-      "precio": "$16.490.000",
-      "caracteristicas": [
-        "Motor 1.5L",
-        "Sistema híbrido ligero",
-        "Caja automática",
-        "Control crucero"
-      ]
-    },
-    {
-      "marca": "Renault",
-      "modelo": "Kwid E-Tech",
-      "version": "Full",
-      "precio": "$19.623.100",
-      "caracteristicas": [
-        "100% eléctrico",
-        "Pantalla multimedia",
-        "Diseño compacto"
-      ]
-    }
+  "titulo_superior": "CATÁLOGO AUTOMOTRIZ",
+  "marca": "Suzuki",
+  "modelo": "Fronx",
+  "version": "GLX AT",
+  "anio": "2026",
+  "label_anio": "Modelo",
+  "precio": "$16.490.000",
+  "codigo": "FRONX/GLX/AT/2026",
+  "imagen": "https://tusitio.cl/imagenes/fronx-glx.png",
+  "detalle_titulo": "Características principales",
+  "descripcion": "SUV compacto con diseño moderno, excelente rendimiento para ciudad y equipamiento pensado para una conducción cómoda y segura.",
+  "caracteristicas": [
+    "Motor 1.5L",
+    "Sistema híbrido ligero",
+    "Caja automática",
+    "Pantalla multimedia",
+    "Apple CarPlay y Android Auto",
+    "Cámara de retroceso",
+    "Control crucero"
   ]
 }
