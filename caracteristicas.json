@@ -13,4 +13,19 @@
       "Automático"
     ]
   }
+
+  {
+    "id": "fronx_glx2",
+    "marca": "Suzuki",
+    "modelo": "Fronx",
+    "version": "GLX AT",
+    "anio": "2026",
+    "precio": "$16.490.000",
+    "descripcion": "SUV compacto moderno",
+    "caracteristicas": [
+      "Motor 1.5L",
+      "Híbrido",
+      "Automático"
+    ]
+  }
 ]
